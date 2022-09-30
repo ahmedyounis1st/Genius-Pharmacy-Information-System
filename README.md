@@ -7,3 +7,7 @@ Genius Pharmacy is a program that build for Information System that sells medici
 + MySQL Workbench
 
 Demo Video Link: https://www.instagram.com/tv/CcjdHEUlUO5/?utm_source=ig_web_copy_link
+
+
+## **Author: Ahmed Mohie Younis**
+
